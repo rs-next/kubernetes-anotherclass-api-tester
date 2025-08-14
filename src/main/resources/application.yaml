@@ -5,7 +5,7 @@ spring:
 
 # App Port
 server:
-  port: 8080
+  port:
 
 # App 정보
 application:
